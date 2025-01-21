@@ -1,0 +1,23 @@
+{
+    "[terraform]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "hashicorp.terraform",
+        "editor.formatOnSaveMode": "file",
+        "editor.tabSize": 2,
+    },
+    "[terraform-vars]": {
+        "editor.tabSize": 2
+    },
+    "[yaml]": {
+        "editor.autoIndent": "advanced",
+        "editor.tabSize": 2,
+    },
+    "[dockercompose]": {
+        "editor.autoIndent": "advanced",
+        "editor.tabSize": 2,
+    },
+    "[github-actions-workflow]": {
+        "editor.autoIndent": "advanced",
+        "editor.tabSize": 2,
+    },
+}
